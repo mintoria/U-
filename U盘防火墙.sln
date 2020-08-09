@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U盘防火墙", "U盘防火墙\U盘防火墙.csproj", "{9609FEF2-5F52-47D2-A07A-F27894661865}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "U盘防火墙-明管家", "U盘防火墙-明管家\U盘防火墙-明管家.vdproj", "{E31D533B-2799-4317-AC0D-D92BB80B9DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9609FEF2-5F52-47D2-A07A-F27894661865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9609FEF2-5F52-47D2-A07A-F27894661865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9609FEF2-5F52-47D2-A07A-F27894661865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9609FEF2-5F52-47D2-A07A-F27894661865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31D533B-2799-4317-AC0D-D92BB80B9DFC}.Debug|Any CPU.ActiveCfg = Debug
+		{E31D533B-2799-4317-AC0D-D92BB80B9DFC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E326ABB-536C-46C6-8365-E5B125A884A4}
+	EndGlobalSection
+EndGlobal
